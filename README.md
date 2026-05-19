@@ -2,14 +2,24 @@
 <img width="1000" height="350" alt="2026-03-1021-31-03-Trim-ezgif com-optimize" src="https://github.com/user-attachments/assets/5c07b24d-6b1e-4ee2-a478-211fd8174678" />
 </div>
 
+<br/>
+
 <h1 align="center"> <img src="https://github.com/Kahmul/DarkSoulsIcons/blob/master/Downscaled_Icons/Bonfire.png" height="30"/>  Welcome to my profile! <img src="https://github.com/Kahmul/DarkSoulsIcons/blob/master/Downscaled_Icons/Bonfire.png" height="30"/> </h1>
+
+<br/>
 
 #### 🎓 Master's student specializing in Distributed Systems in the Internet at Babes Bolyai University, Cluj-Napoca.
 #### 🖥 Passionate about programming, science and gaming.
 
+<br/>
+
 <img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/1e6ff29a-4dfe-46d0-a141-fe792d39d479" /> In parallel to my studies I have worked as an Fullstack Engineer at Ernst & Young, creating a fullstack web application with .Net, and took part in the Dava.X Academy Program at Endava, learning about Data & AI Engineering.
 
+<br/>
+
 # Programming languages, frameworks and tools I have worked with
+<br/>
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
@@ -77,3 +87,5 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
+
+<br/>
