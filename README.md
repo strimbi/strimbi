@@ -6,8 +6,6 @@
 
 <h1 align="center"> <img src="https://github.com/Kahmul/DarkSoulsIcons/blob/master/Downscaled_Icons/Bonfire.png" height="30"/>  Welcome to my profile! <img src="https://github.com/Kahmul/DarkSoulsIcons/blob/master/Downscaled_Icons/Bonfire.png" height="30"/> </h1>
 
-<br/>
-
 #### 🎓 Master's student specializing in Distributed Systems in the Internet at Babes Bolyai University, Cluj-Napoca.
 #### 🖥 Passionate about programming, science and gaming.
 
@@ -86,6 +84,7 @@ In parallel to my studies I have worked as an Fullstack Engineer at Ernst & Youn
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
 
+<br/>
 
 # Badges from O'Relly and Microsoft Learn 
 <img width="104" height="104" alt="genai-essentials-for-everyone" src="https://github.com/user-attachments/assets/b3cac3cb-5252-48c8-b30c-29497aef000b" />
