@@ -11,9 +11,7 @@
 #### 🎓 Master's student specializing in Distributed Systems in the Internet at Babes Bolyai University, Cluj-Napoca.
 #### 🖥 Passionate about programming, science and gaming.
 
-<br/>
-
-<img width="15" height="15" alt="image" src="https://github.com/user-attachments/assets/1e6ff29a-4dfe-46d0-a141-fe792d39d479" /> In parallel to my studies I have worked as an Fullstack Engineer at Ernst & Young, creating a fullstack web application with .Net, and took part in the Dava.X Academy Program at Endava, learning about Data & AI Engineering.
+In parallel to my studies I have worked as an Fullstack Engineer at Ernst & Young, creating a fullstack web application with .Net, and took part in the Dava.X Academy Program at Endava, learning about Data & AI Engineering.
 
 <br/>
 
@@ -87,5 +85,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
 </div>
+
+
+# Badges and certifications
+<img width="104" height="104" alt="genai-essentials-for-everyone" src="https://github.com/user-attachments/assets/b3cac3cb-5252-48c8-b30c-29497aef000b" />
+<img width="104" height="104" alt="llm-performance-engineering" src="https://github.com/user-attachments/assets/cdef24d4-1f5b-4d51-aea2-6a4c69c40578" />
 
 <br/>
