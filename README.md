@@ -87,8 +87,10 @@ In parallel to my studies I have worked as an Fullstack Engineer at Ernst & Youn
 </div>
 
 
-# Badges and certifications
+# Badges from O'Relly and Microsoft Learn 
 <img width="104" height="104" alt="genai-essentials-for-everyone" src="https://github.com/user-attachments/assets/b3cac3cb-5252-48c8-b30c-29497aef000b" />
 <img width="104" height="104" alt="llm-performance-engineering" src="https://github.com/user-attachments/assets/cdef24d4-1f5b-4d51-aea2-6a4c69c40578" />
+<img width="104" height="104" alt="S1 180521" src="https://github.com/user-attachments/assets/2f9010e1-f7ac-4dcc-90a5-ad103a144497" />
+
 
 <br/>
