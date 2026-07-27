@@ -21,7 +21,7 @@ In parallel to my studies I have worked as an Fullstack Engineer at Ernst & Youn
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/v2.17.0/icons/entityframeworkcore/entityframeworkcore-line.svg"  />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/entityframeworkcore/entityframeworkcore-line.svg"  />
   <img width="12" />
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
   <img width="12" />
